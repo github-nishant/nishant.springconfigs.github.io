@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Spring Configurations
+
+A project showing configuration of Spring based on XML, XML + Annotations and all Java code with Annotations.
 
 You can use the [editor on GitHub](https://github.com/github-nishant/nishant.springconfigs.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
