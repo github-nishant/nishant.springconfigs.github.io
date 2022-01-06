@@ -5,14 +5,14 @@ A project showing configuration of Spring apps based on XML, XML + Annotations a
 ## Configurations based on:
 
 ### 1. XML
-  ##### 1.1. [Spring App](https://nishant-repos.github.io/springconfigs)
-  ##### 1.2. [Spring MVC Web App](https://nishant-repos.github.io/springconfigs)
+  #### 1.1. [Spring App](https://nishant-repos.github.io/springconfigs)
+  #### 1.2. [Spring MVC Web App](https://nishant-repos.github.io/springconfigs)
 ### 2. XML and Annotations
-  ##### 2.1. [Spring App](https://nishant-repos.github.io/springconfigs)
-  ##### 2.2. [Spring MVC Web App](https://nishant-repos.github.io/springconfigs)
+  #### 2.1. [Spring App](https://nishant-repos.github.io/springconfigs)
+  #### 2.2. [Spring MVC Web App](https://nishant-repos.github.io/springconfigs)
 ### 3. All Java code with Annotations
-  ##### 3.1. [Spring App](https://nishant-repos.github.io/springconfigs)
-  ##### 3.2. [Spring MVC Web App](https://nishant-repos.github.io/springconfigs)
+  #### 3.1. [Spring App](https://nishant-repos.github.io/springconfigs)
+  #### 3.2. [Spring MVC Web App](https://nishant-repos.github.io/springconfigs)
 
 You can use the [editor on GitHub](https://github.com/github-nishant/nishant.springconfigs.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
