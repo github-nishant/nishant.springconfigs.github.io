@@ -1,6 +1,12 @@
 ## Spring Configurations
 
-A project showing configuration of Spring based on XML, XML + Annotations and all Java code with Annotations.
+A project showing configuration of Spring apps based on XML, XML + Annotations and all Java code with Annotations.
+
+### Configurations based on:
+
+####1. XML
+####2. XML and Annotations
+####3. All Java code with Annotations
 
 You can use the [editor on GitHub](https://github.com/github-nishant/nishant.springconfigs.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
