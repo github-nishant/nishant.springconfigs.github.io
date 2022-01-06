@@ -5,8 +5,8 @@ A project showing configuration of Spring apps based on XML, XML + Annotations a
 ### Configurations based on:
 
 #### 1. XML
-  ###### 1.1. [Spring App ]
-  ###### 1.2. [Spring MVC Web App ]
+  ###### 1.1. [Spring App](https://nishant-repos.github.io/springconfigs)
+  ###### 1.2. [Spring MVC Web App](https://nishant-repos.github.io/springconfigs)
 #### 2. XML and Annotations
 #### 3. All Java code with Annotations
 
